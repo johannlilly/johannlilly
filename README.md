@@ -1,24 +1,20 @@
 # Hey there, I'm Johann
 
-## H!
-
 I'm a hands-on software architect and cloud-native full-stack web app developer. I focus on reactive applications that look perfect across any device. Every developer has a set of tools; here's mine:
 
-<br />
-<br />
+----
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>	
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<br />
-<br />
+----
 
 ## 📊 My GitHub Stats
 
-<img align="left" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=nord" />
+<img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=nord" />
 
 ## The latest about me
 
