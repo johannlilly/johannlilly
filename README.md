@@ -26,7 +26,7 @@ I'm a hands-on software architect and cloud-native full-stack web app developer.
 <img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=nord" />
 
-## The latest about me
+## 👨‍💻 The latest about me
 
 - 🔭 I’m currently working on vanilla JavaScript, ES6+, TypeScript, and React projects
 - 🌱 I’m currently learning JavaScript and WebAssembly engines and compilers
@@ -34,7 +34,7 @@ I'm a hands-on software architect and cloud-native full-stack web app developer.
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about JavaScript education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
-- ⚡ Fun fact: I serve in the Army National Guard in the Infantry 
+- ⚡ Fun fact: I serve in the Army National Guard in the Infantry
 
 <!--
 **johannlilly/johannlilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
