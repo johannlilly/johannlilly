@@ -60,15 +60,6 @@ I'm a hands-on software architect and cloud-native full-stack web app developer.
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
 - ⚡ Fun fact: I serve in the Army National Guard in the Infantry
 
-<style type="text/css" rel="stylesheet">
-  .markdown-body table td,
-  .markdown-body table th,
-  .markdown-body table tr {
-    border: none;
-    background: none;
-  }
-</style>
-
 <!--
 **johannlilly/johannlilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
