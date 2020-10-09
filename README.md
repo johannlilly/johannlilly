@@ -1,6 +1,6 @@
 # Hey there, I'm Johann
 
-I'm a hands-on software architect and cloud-native full-stack web app developer. I focus on reactive applications that look perfect across any device. Every developer has a set of tools; here's mine:
+I'm a hands-on software architect and cloud-native full-stack web app developer. I focus on pixel-perfect reactive applications for any device. Every developer has a set of tools; here's mine:
 
 ## Programming
 
