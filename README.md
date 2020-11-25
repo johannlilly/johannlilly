@@ -29,7 +29,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 - 🔭 I’m splitting between advanced statistical analysis for Data Science and vanilla JavaScript, ES6+, TypeScript, and React
 - 🌱 I’m currently learning JavaScript and WebAssembly engines and compilers
-- 🏫 I'm studying Mathematics for Machine Learning, including vector calculus, multivariable calculus, linear algebra, and linear regression 
+- 🏫 I'm studying Mathematics for Machine Learning including vector and multivariable calculus 
 - 👯 I’m looking to collaborate on WebAssembly projects with Rust
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about JavaScript education resources
