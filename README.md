@@ -23,7 +23,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 ## 📊 My GitHub Stats
 
 <img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true" />
 
 ## 👨‍💻 The latest about me
 
