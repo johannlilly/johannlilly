@@ -36,7 +36,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
 - ⚡ Fun fact: I serve in the Army National Guard as an intelligence advisor
 
-## Study Roadmap
+## 📚 Study Roadmap
 
 **Primary**: Artificial Intelligence, AWS, CI/CD pipelines, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, SDD, Sec+/Network+, TDD, TensorFlow
 
