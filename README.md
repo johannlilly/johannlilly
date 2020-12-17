@@ -27,14 +27,22 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 ## 👨‍💻 The latest about me
 
-- 🔭 I’m learning advanced statistical analysis for Data Science
-- 🌱 I’m currently learning JavaScript and WebAssembly engines and compilers
+- 🔭 I’m learning advanced statistical analysis for Data Science while brushing up on Python
+- 🌱 I’m learning JavaScript and WebAssembly engines and compilers
 - 🏫 I'm studying Mathematics for Machine Learning including vector and multivariable calculus 
 - 👯 I’m looking to collaborate on WebAssembly projects with Rust
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about JavaScript education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
 - ⚡ Fun fact: I serve in the Army National Guard as an intelligence advisor
+
+## Study Roadmap
+
+**Primary**: Artificial Intelligence, AWS, CI/CD pipelines, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, SDD, Sec+/Network+, TDD, TensorFlow
+
+**Secondary**: React hooks, SQL, JavaScript, TypeScript, Python, D3.js, Tableau and visualization
+
+**Tertiary**: Scala, Go, Assembly x64, Rust, WebAssembly, Julia, C, Vue
 
 <!--
 **johannlilly/johannlilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
