@@ -38,7 +38,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 ## 📚 Study Roadmap
 
-**Primary**: Artificial Intelligence, AWS, CI/CD pipelines, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, SDD, Sec+/Network+, TDD, TensorFlow
+**Primary**: Artificial Intelligence, AWS, CI/CD pipelines, build tools, Cucumber, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, BDD, SDD, Sec+/Network+, TDD, TensorFlow
 
 **Secondary**: React hooks, SQL, JavaScript, TypeScript, Python, D3.js, Tableau and visualization
 
