@@ -2,6 +2,11 @@
 
 I'm a data scientist, hands-on software architect, and cloud-native full-stack web app developer. I focus on pixel-perfect reactive applications for any device. Every developer has a set of tools; here's mine:
 
+## 📊 My GitHub Stats
+
+<img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true&layout=compact" />
+
 ## Programming
 
 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/><br/>🟨 | <br/><br/><br/><br/>🟨 |
@@ -19,11 +24,6 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 |🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 |
 |--|--|
 |<code><!-- AWS --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>|<code><!-- Azure --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>|
-
-## 📊 My GitHub Stats
-
-<img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true&layout=compact" />
 
 ## 👨‍💻 The latest about me
 
