@@ -29,10 +29,10 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 - 🔭 I’m learning advanced statistical analysis for Data Science while brushing up on Python
 - 🌱 I’m learning JavaScript and WebAssembly engines and compilers
-- 🏫 I'm studying Mathematics for Machine Learning including vector and multivariable calculus 
+- 🏫 I'm studying Advanced Python for Data Science at Harvard University's Extension School 
 - 👯 I’m looking to collaborate on WebAssembly projects with Rust
 - 🤔 I’m looking for help with system-level programming for ARMv8 64-bit architecture
-- 💬 Ask me about JavaScript education resources
+- 💬 Ask me about JavaScript and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
 - ⚡ Fun fact: I serve in the Army National Guard as an intelligence advisor
 
