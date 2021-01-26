@@ -27,7 +27,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 ## 👨‍💻 The latest about me
 
-- 🔭 I’m learning advanced statistical analysis for Data Science while brushing up on Python
+- 🔭 I’m learning statistical analysis for Data Science while brushing up on Python
 - 🌱 I’m learning JavaScript and WebAssembly engines and compilers
 - 🏫 I'm studying Advanced Python for Data Science at Harvard University's Extension School 
 - 👯 I’m looking to collaborate on WebAssembly projects with Rust
