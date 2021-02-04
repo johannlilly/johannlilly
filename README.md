@@ -45,7 +45,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 **Secondary**: implementation of advanced algorithms with Java, memorized implementation of standard in Java, React hooks, SQL, JavaScript (symbols), TypeScript, Python, D3.js, Tableau and visualization
 
-**Tertiary**: Scala, Go, Assembly x64, Rust, WebAssembly, Julia, C, Vue
+**Tertiary**: Scala, Go, Assembly x64, Rust, WebAssembly, Julia, C, Vue, CentOS
 
 ### Mathematics
 
