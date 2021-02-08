@@ -47,7 +47,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 **Tertiary**: Scala, Go, Assembly x64, Rust, WebAssembly, Julia, C, Vue, CentOS
 
-### Mathematics
+### Mathematics 
 
 - Mathematical Logic by William Van Orman Quine (1961)
 - Discrete Mathematics by Norman L. Biggs (1993)
