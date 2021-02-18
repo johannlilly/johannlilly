@@ -51,7 +51,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 ### Mathematics 
 
 - Mathematical Logic by William Van Orman Quine (1961)
-- Discrete Mathematics by Norman L. Biggs (1993)
+- Discrete Mathematics by Norman L. Biggs (1993) 
 
 <!--
 
