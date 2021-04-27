@@ -4,9 +4,11 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 ## 📊 My GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true&layout=compact)
 
-| <img align="center" height="150px" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" /> | 
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true&layout=compact" /> |
+![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true)  
+
+![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=prussian&background=FFFFFF&sideNums=343434&sideLabels=3080ED&ring=3080ED&fire=ED1056&dates=343434&stroke=343434&currStreakNum=343434&currStreakLabel=3080ED)
 
 ## Programming 
 
