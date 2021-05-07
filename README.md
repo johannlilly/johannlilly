@@ -10,7 +10,7 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=prussian&background=FFFFFF&sideNums=343434&sideLabels=3080ED&ring=3080ED&fire=ED1056&dates=343434&stroke=343434&currStreakNum=343434&currStreakLabel=3080ED)
 
-## Programming 
+## Programming
 
 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/><br/>🟨 | <br/><br/><br/><br/>🟨 |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
