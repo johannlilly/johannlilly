@@ -2,7 +2,7 @@
 
 I'm a data scientist, hands-on software architect, and cloud-native full-stack web app developer. I bridge the semantic gap between business logic and technological solutions.
 
-## 📊 My GitHub Stats
+## 📊 My GitHub  Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true&layout=compact)
 
