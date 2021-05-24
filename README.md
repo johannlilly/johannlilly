@@ -10,7 +10,7 @@ I'm an applied machine learning research scientist with a background in software
 
 ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=onedark)
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=johannlilly&label=Profile%20views&color=0e75b6&style=flat)
+<!-- ![GitHub profile views](https://komarev.com/ghpvc/?username=johannlilly&label=Profile%20views&color=0e75b6&style=flat) -->
 
 ## 👨‍💻 The latest about me
 
