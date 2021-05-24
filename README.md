@@ -4,11 +4,15 @@ I'm a data scientist, hands-on software architect, and cloud-native full-stack w
 
 ## 📊 My GitHub Stats 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=default&hide_border=true&layout=compact)
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=johannlilly&theme=onedark&margin-w=15&margin-h=15&column=7)
 
-![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=onedark&layout=compact&langs_count=15&card_width=810)
 
-![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=prussian&background=FFFFFF&sideNums=343434&sideLabels=3080ED&ring=3080ED&fire=ED1056&dates=343434&stroke=343434&currStreakNum=343434&currStreakLabel=3080ED)
+![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&theme=onedark&width=810)
+
+![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=onedark)
+
+![GitHub profile views](https://komarev.com/ghpvc/?username=johannlilly&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Programming
 
