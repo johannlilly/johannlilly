@@ -12,7 +12,7 @@ I'm an applied machine learning research scientist with a background in software
 
 <!-- ![GitHub profile views](https://komarev.com/ghpvc/?username=johannlilly&label=Profile%20views&color=0e75b6&style=flat) -->
 
-## 👨‍💻 The latest  about me
+## 👨‍💻 The latest about me
 
 - 🔭 I’m learning statistical analysis for data science while brushing up on Python
 - 🌱 I’m learning JavaScript and WebAssembly engines and compilers
