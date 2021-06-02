@@ -34,7 +34,7 @@ I'm an applied machine learning research scientist with a background in software
 
 **Tertiary**: Scala, Go, Assembly x64, Rust, WebAssembly, Julia, C, Vue, CentOS
 
-### Mathematics 
+### Mathematics
 
 - Mathematical Logic by William Van Orman Quine (1961)
 - Discrete Mathematics by Norman L. Biggs (1993) 
