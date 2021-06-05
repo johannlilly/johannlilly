@@ -24,6 +24,7 @@ I'm an applied machine learning research scientist with a background in software
 - ⚡ Fun fact: I serve in the Army National Guard as an intelligence advisor
 
 ### @ the office
+
 - 👾 Machine Learning: deep learning, long short-term memory (LSTM), artificial recurrent neural networks (RNN)
 
 ## 📚 Study  Roadmap
