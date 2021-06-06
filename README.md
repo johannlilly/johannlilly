@@ -27,7 +27,7 @@ I'm an applied machine learning research scientist with a background in software
 
 - 👾 Machine Learning: deep learning, long short-term memory (LSTM), artificial recurrent neural networks (RNN)
 
-## 📚 Study  Roadmap
+## 📚 Study Roadmap
 
 **Primary**: Artificial Intelligence, AWS, CI/CD pipelines, build tools, Cucumber, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, BDD, SDD, Sec+/Network+, TDD, TensorFlow
 
