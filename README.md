@@ -1,4 +1,4 @@
-# Hey there, I'm Johann
+# Hey there, I'm Johann 
 
 I'm an applied machine learning research scientist with a background in software engineering and cloud architecture. I bridge the semantic gap between business logic and technological solutions.
 
