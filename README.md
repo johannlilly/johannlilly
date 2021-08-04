@@ -23,7 +23,7 @@ I'm an applied machine learning research scientist with a background in software
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
 - ⚡ Fun fact: I serve in the Army National Guard as an intelligence advisor
 
-### @ the office 
+### @ the office
 
 - 👾 Machine Learning: deep learning, long short-term memory (LSTM), artificial recurrent neural networks (RNN)
 
