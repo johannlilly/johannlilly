@@ -15,9 +15,8 @@ I'm an applied machine learning research scientist with a background in software
 ## 👨‍💻 The latest about me 
 
 - 🔭 I’m learning statistical analysis for data science while brushing up on Python
-- 🌱 I’m learning JavaScript and WebAssembly engines and compilers
-- 🏫 I'm studying Advanced Python for Data Science at Harvard University's Extension School 
-- 👯 I’m looking to collaborate on WebAssembly projects with Rust
+- 🏫 I'm studying Python for Data Science at Harvard University's Extension School 
+- 👯 I’m looking to collaborate on projects with Rust or Julia
 - 🤔 I’m looking for help with system-level programming for ARMv8 64-bit architecture
 - 💬 Ask me about JavaScript and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
@@ -29,11 +28,7 @@ I'm an applied machine learning research scientist with a background in software
 
 ## 📚 Study Roadmap 
 
-**Primary**: Artificial Intelligence, AWS, CI/CD pipelines, build tools, Cucumber, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, BDD, SDD, Sec+/Network+, TDD, TensorFlow
-
-**Secondary**: implementation of advanced algorithms with Java, memorized implementation of standard in Java, React hooks, SQL, JavaScript (symbols), TypeScript, Python, D3.js, Tableau and visualization
-
-**Tertiary**: Scala, Go, Assembly x64, Rust, WebAssembly, Julia, C, Vue, CentOS
+**Primary**: Artificial Intelligence, AWS, CI/CD pipelines, build tools, Cucumber, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Hadoop, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, PyTorch, RHEL, BDD, SDD, Sec+/Network+, TDD, TensorFlow; AWS certs
 
 ### Mathematics
 
