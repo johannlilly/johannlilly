@@ -35,7 +35,7 @@ I'm an applied machine learning research scientist with a background in software
 - Mathematical Logic by William Van Orman Quine (1961)
 - Discrete Mathematics by Norman L. Biggs (1993) 
 
-<!--                  
+<!--                   
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
