@@ -1,6 +1,6 @@
 # Hey there, I'm Johann
 
-I'm an applied machine learning research scientist with a background in software engineering and cloud architecture. I bridge the semantic gap between business logic and technological solutions.
+I bridge the semantic gap between business logic and technological solutions.
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=johannlilly&theme=onedark&margin-w=15&margin-h=15&column=7)
 
