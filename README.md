@@ -20,7 +20,7 @@ I bridge the semantic gap between business logic and technological solutions.
 - 🤔 I’m looking for help with system-level programming for ARMv8 64-bit architecture
 - 💬 Ask me about JavaScript and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/johannlilly)
-- ⚡ Fun fact: I serve in the Army National Guard as an intelligence advisor
+- ⚡ Fun fact: I serve in the Army National Guard
 
 ### @ the office 
 
