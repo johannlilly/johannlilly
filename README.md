@@ -4,10 +4,12 @@ I bridge the semantic gap between business logic and technological solutions.
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=johannlilly&theme=onedark&margin-w=15&margin-h=15&column=7)
 
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=onedark&layout=compact&langs_count=15&card_width=810)
-
+-->
+<!-- 
 ![GitHub most used languages](https://github-readme-stats.vercel.app/api?username=johannlilly&show_icons=true&theme=onedark&width=810)
-
+-->
 ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=johannlilly&theme=onedark)
 
 <!-- ![GitHub profile views](https://komarev.com/ghpvc/?username=johannlilly&label=Profile%20views&color=0e75b6&style=flat) -->
