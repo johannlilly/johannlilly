@@ -14,6 +14,8 @@ I bridge the semantic gap between business logic and technological solutions.
 
 <!-- ![GitHub profile views](https://komarev.com/ghpvc/?username=johannlilly&label=Profile%20views&color=0e75b6&style=flat) -->
 
+<!--
+
 ## 👨‍💻 The latest about me 
 
 - 🔭 I’m learning statistical analysis for data science while brushing up on Python
@@ -34,7 +36,8 @@ I bridge the semantic gap between business logic and technological solutions.
 ### Mathematics
 
 - Mathematical Logic by William Van Orman Quine (1961)
-- Discrete Mathematics by Norman L. Biggs (1993) 
+- Discrete Mathematics by Norman L. Biggs (1993)
+-->
 
 <!--                      
  
